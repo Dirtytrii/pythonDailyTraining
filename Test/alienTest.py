@@ -4,4 +4,4 @@ favorite_languages = {
 }
 
 language = favorite_languages['jiang']
-print(f"jiang's favorite language is {language}" + language)
+print(f"jiang's favorite language is {language.title()} " + language)
